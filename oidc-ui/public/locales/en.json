@@ -21,6 +21,7 @@
     "birthdate": "Birthdate",
     "locale": "Locale",
     "nickname": "Nickname",
+    "referenceIdentityNumber":"NIC Number",
     "family_name": "Family Name",
     "zoneinfo": "Zone Info",
     "updated_at": "Updated at",
