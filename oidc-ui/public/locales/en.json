@@ -298,23 +298,17 @@
   },
   "loginOptions": {
     "buttons": {
-      "mobile": "Mobile Number",
-      "nrc": "NRC ID",
-      "vid": "UIN/VID",
-      "email": "Email"
+      "idnumber": "ID Number",
+      "uin": "Service ID"
     },
     "input": {
       "label": {
-        "mobile": "Mobile Number",
-        "nrc": "NRC ID",
-        "vid": "UIN/VID",
-        "email": "Email"
+        "idnumber": "ID Number",
+        "uin": "Service ID"
       },
       "placeholder": {
-        "mobile": "Enter Mobile Number",
-        "nrc": "Enter NRC ID",
-        "vid": "Enter UIN/VID",
-        "email": "Enter Email ID"
+        "idnumber": "Enter ID Number",
+        "uin": "Enter Service ID"
       }
     }
   },
