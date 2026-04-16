@@ -176,7 +176,9 @@
     "link_using_id_multiple": "Select a preferred ID to Link",
     "multiple_login_ids": "Select a Login ID Option",
     "enter_otp": "Enter OTP",
-    "and": "and"
+    "and": "and",
+    "uin":"Service Id",
+    "idnumber":"Id Number"
   },
   "signInOption": {
     "login_option_heading": "Choose How You Want to Login:",
